@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Jugo de Manzana",
+      "precio": "5"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "nike",
+      "precio": 23,
+      "id": 6
+    },
+    {
+      "nombre": "jordan",
+      "precio": 23,
+      "id": 7
+    },
+    {
+      "nombre": "cafe",
+      "precio": 3,
+      "id": 8
+    },
+    {
+      "nombre": "cafe con hielo",
+      "precio": 4,
+      "id": 9
+    }
+  ]
+}
